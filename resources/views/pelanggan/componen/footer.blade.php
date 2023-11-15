@@ -38,5 +38,6 @@
     </div>
 </div>
 <div class="text-center p-lg-4 mt-3">
-    Copy right @ Manajemen Informatika Polinema 2023 
+    <i class="fa-regular fa-copyright"></i> Copy right @ Manajemen Informatika Polinema 2023 
+    
 </div>
